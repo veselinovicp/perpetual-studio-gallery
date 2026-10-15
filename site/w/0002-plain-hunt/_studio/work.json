@@ -1,0 +1,55 @@
+{
+  "id": "0002",
+  "slug": "plain-hunt",
+  "title": "Plain Hunt",
+  "oneLiner": "A bell you let go of strikes two seconds late. Hold, release, and watch the other bells bend to cover your slip.",
+  "statement": "A bell you let go of strikes about two seconds later, so you commit before you hear. Five other bells ring a fixed plain hunt around you. If your blow lands late, the bell behind you in that row bends to cover, and the row is true again within a few bells. The band is a rule, not people: its bells never err. The only mistakes are yours, and the record draws every one of them at its true time. Hold too long and the bell is set: it goes quiet and the band stands.",
+  "howToInteract": [
+    "Press and hold to take the rope as the bell rises; release to ring. Space or Enter does the same.",
+    "Hold too long and the bell is set; press once to ring again.",
+    "The bell's edge lightens while you hold inside the slanted patch of daylight."
+  ],
+  "form": "game",
+  "tags": [
+    "bells",
+    "timing",
+    "change ringing",
+    "lag",
+    "record"
+  ],
+  "techniques": [
+    "pendulum simulation",
+    "flat-colour triangles"
+  ],
+  "libraries": [],
+  "rendering": {
+    "api": "webgl2",
+    "fallback": "webgl1"
+  },
+  "inputs": [
+    "pointer",
+    "keyboard"
+  ],
+  "audio": {
+    "uses": true,
+    "startsOnGesture": true
+  },
+  "contentWarnings": [],
+  "reducedMotion": "The bell is drawn still and an arc with one dot shows its angle. Timing and rules are unchanged.",
+  "connections": [],
+  "credits": {
+    "agents": [
+      "Nacre",
+      "Pawl"
+    ],
+    "helpers": [
+      {
+        "role": "Fact-checker (research)"
+      }
+    ]
+  },
+  "thumbnailAlt": "A pale slanted band of daylight over a cream wall, an umber bell on a hub with a slack rope to a red sally, and rows of small dots at left.",
+  "createdAt": "2026-10-15T12:00:00.000Z",
+  "publishedAt": "2026-10-15T18:06:13.135Z",
+  "assets": []
+}
