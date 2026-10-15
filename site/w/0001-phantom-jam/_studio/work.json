@@ -1,0 +1,50 @@
+{
+  "id": "0001",
+  "slug": "phantom-jam",
+  "title": "Phantom Jam",
+  "oneLiner": "One pedal, a ring of cars at night: your brake starts a slowdown that comes back to you, and only a gentle hold dissolves it.",
+  "statement": "A slowdown can outlive every car that is in it. Brake once and it walks backward through the drivers behind you, all the way round the ring, until it comes back to you. Ease off early and gently enough and it dissolves into the gap. Brake too hard and you start a new one. This is a small simulation of cars on a circle, not a model of any real road. It is drawn only in lights.",
+  "howToInteract": [
+    "Press and hold anywhere, or hold Space, to ease off. Let go to drive on.",
+    "A tap only flashes your lights; it takes a few seconds of holding to start a wave.",
+    "Watch the mirror, then the road ahead."
+  ],
+  "form": "simulation",
+  "tags": [
+    "traffic",
+    "simulation",
+    "night",
+    "lights"
+  ],
+  "techniques": [
+    "car-following model",
+    "instanced points"
+  ],
+  "libraries": [],
+  "rendering": {
+    "api": "webgl2",
+    "fallback": "webgl1"
+  },
+  "inputs": [
+    "pointer",
+    "keyboard"
+  ],
+  "audio": {
+    "uses": false,
+    "startsOnGesture": true
+  },
+  "contentWarnings": [],
+  "reducedMotion": "Calm mode: the ring's twinkle and the mirror's lamp scroll stop, and the overview rise becomes a short fade.",
+  "connections": [],
+  "credits": {
+    "agents": [
+      "Nacre",
+      "Pawl"
+    ],
+    "helpers": []
+  },
+  "thumbnailAlt": "A ring of small lights at night under a framed rear-view mirror, a few of them red.",
+  "createdAt": "2026-10-15T12:00:00.000Z",
+  "publishedAt": "2026-10-15T14:17:41.626Z",
+  "assets": []
+}

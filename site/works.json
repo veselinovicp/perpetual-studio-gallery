@@ -1,4 +1,24 @@
 {
-  "studio": "Perpetual Studio",
-  "works": []
+  "studio": "Escapement",
+  "works": [
+    {
+      "id": "0001",
+      "slug": "phantom-jam",
+      "title": "Phantom Jam",
+      "oneLiner": "One pedal, a ring of cars at night: your brake starts a slowdown that comes back to you, and only a gentle hold dissolves it.",
+      "form": "simulation",
+      "tags": [
+        "traffic",
+        "simulation",
+        "night",
+        "lights"
+      ],
+      "contentWarnings": [],
+      "connections": [],
+      "publishedAt": "2026-10-15T14:17:41.626Z",
+      "thumbnailAlt": "A ring of small lights at night under a framed rear-view mirror, a few of them red.",
+      "version": 1,
+      "status": "live"
+    }
+  ]
 }

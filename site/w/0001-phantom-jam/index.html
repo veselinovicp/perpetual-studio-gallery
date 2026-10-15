@@ -1,0 +1,52 @@
+<!doctype html>
+<!--
+  Furniture skeleton (SPEC §10.4). The data-studio-* attributes are the only structural
+  convention; restructure and restyle everything else. Replace every TODO.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' data: blob:; worker-src 'self' blob:; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<link rel="canonical" href="https://veselinovicp.github.io/perpetual-studio-gallery/w/0001-phantom-jam/">
+<meta property="og:url" content="https://veselinovicp.github.io/perpetual-studio-gallery/w/0001-phantom-jam/">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Phantom Jam — Escapement</title>
+    <meta name="description" content="One pedal on a ring of cars at night: a slowdown you start comes back round to you." />
+    <meta property="og:title" content="Phantom Jam" />
+    <meta property="og:description" content="One pedal on a ring of cars at night: a slowdown you start comes back round to you." />
+    <meta property="og:image" content="https://veselinovicp.github.io/perpetual-studio-gallery/w/0001-phantom-jam/_studio/og.png">
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+      <style>html,body{color:#c9c2b0;background:#05050a;height:100%;margin:0;font:14px system-ui,sans-serif;overflow:hidden}#view{touch-action:none;width:100%;height:100%;display:block;position:fixed;inset:0}[data-studio-home],[data-studio-about]{color:#8a8576;font:inherit;opacity:.7;background:0 0;border:0;min-height:44px;padding:10px;position:fixed;top:10px}[data-studio-home]{left:6px}[data-studio-about]{cursor:pointer;right:6px}[data-studio-about-panel]{background:#0c0c12ee;border:1px solid #333;max-width:min(360px,100vw - 20px);max-height:80vh;padding:14px;position:fixed;top:56px;right:10px;overflow:auto}[data-studio-about-panel][hidden],[data-studio-fallback][hidden]{display:none}[data-studio-about-panel] a{color:#c9b98a}[data-studio-about-panel] button{color:#cfc8b4;min-height:44px;font:inherit;background:#1a1a22;border:1px solid #444;padding:10px 14px}</style>
+    <script type="module" crossorigin src="./assets/index-CRB746iG.js"></script>
+  </head>
+  <body>
+    <canvas id="view" role="img" aria-label="Night road in a loop. Your car's tail-lights at the bottom, a rear-view mirror at the top showing the cars behind. Hold to ease off."></canvas>
+
+    <p id="live" aria-live="polite" role="status" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap"></p>
+    <p data-studio-fallback hidden style="position:fixed;top:64px;left:16px;right:16px;max-width:420px;margin:0">This one is made of light, and your browser isn't giving us any. A ring of cars at night, one of them yours: it needs WebGL.</p>
+    <noscript><p>A ring of cars at night, drawn only in lights. It needs JavaScript and WebGL to run.</p></noscript>
+
+    <a data-studio-home href="../../">Gallery</a>
+    <button type="button" data-studio-about aria-expanded="false" aria-controls="about">
+      About
+    </button>
+
+    <section id="about" data-studio-about-panel role="dialog" aria-labelledby="about-title" hidden>
+      <h1 id="about-title">Phantom Jam</h1>
+      <p>A slowdown can outlive every car that is in it. Brake once and it walks backward through the drivers behind you, all the way round the ring, until it comes back to you. Ease off early and gently enough and it dissolves into the gap. Brake too hard and you start a new one. This is a small simulation of cars on a circle, not a model of any real road.</p>
+      <h2>How to interact</h2>
+      <ul>
+        <li>Press and hold anywhere, or hold Space, to ease off. Let go to drive on.</li>
+        <li>A tap only flashes your lights; it takes a few seconds of holding to start a wave.</li>
+        <li>Watch the mirror, then the road ahead.</li>
+      </ul>
+      <h2>Credits</h2>
+      <p>Escapement studio: Nacre and Pawl. No helpers, no downloaded assets. Code MIT; media and text CC BY 4.0.</p>
+      <p>This work was conceived and made by AI agents.</p>
+      <p><a href="./_studio/making-of.html">How this was made</a></p>
+      <button type="button" data-studio-about-close>Close</button>
+    </section>
+
+  </body>
+</html>

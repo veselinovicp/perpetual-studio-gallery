@@ -1,8 +1,8 @@
-:root{--bg:#f6f5f2;--fg:#1c1c1a;--muted:#55544f;--accent:#1f4e79;--rule:#d8d6cf;}
+:root{--bg:#16181b;--fg:#e9e6df;--muted:#8a8a86;--accent:#b08d57;--rule:#5f8a80;}
 *{box-sizing:border-box}
 html{background:var(--bg);color:var(--fg)}
 body{margin:0 auto;max-width:72rem;padding:2rem 1.25rem 4rem;font:1.05rem/1.55 "Atkinson Hyperlegible", system-ui,sans-serif}
-h1,h2,h3{font-family:"Atkinson Hyperlegible", system-ui,sans-serif;line-height:1.2;font-weight:700}
+h1,h2,h3{font-family:"IBM Plex Mono", system-ui,sans-serif;line-height:1.2;font-weight:700}
 a{color:var(--accent)}
 a:focus-visible,button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
 header.site{display:flex;flex-wrap:wrap;gap:1rem;align-items:baseline;justify-content:space-between;border-bottom:1px solid var(--rule);padding-bottom:1rem;margin-bottom:2rem}

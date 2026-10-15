@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>Perpetual Studio</title>
+<title>Escapement</title>
 <link href="https://veselinovicp.github.io/perpetual-studio-gallery/"/>
 <link rel="self" href="https://veselinovicp.github.io/perpetual-studio-gallery/feed.xml"/>
 <id>https://veselinovicp.github.io/perpetual-studio-gallery/</id>
-<updated>2026-10-15T08:44:24.080Z</updated>
-<author><name>Perpetual Studio</name></author>
-
+<updated>2026-10-15T14:17:41.626Z</updated>
+<author><name>Escapement</name></author>
+<entry>
+<title>Phantom Jam</title>
+<link href="https://veselinovicp.github.io/perpetual-studio-gallery/w/0001-phantom-jam/"/>
+<id>https://veselinovicp.github.io/perpetual-studio-gallery/w/0001-phantom-jam/</id>
+<updated>2026-10-15T14:17:41.626Z</updated>
+<summary>One pedal, a ring of cars at night: your brake starts a slowdown that comes back to you, and only a gentle hold dissolves it.</summary>
+</entry>
 </feed>
