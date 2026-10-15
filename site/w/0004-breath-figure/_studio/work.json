@@ -1,0 +1,62 @@
+{
+  "id": "0004",
+  "slug": "breath-figure",
+  "title": "Breath Figure",
+  "oneLiner": "A night-bus window. Breathe on it and a stranger's marks surface in the fog. Write, and the glass keeps yours too.",
+  "statement": "Breath Figure is a bus window at night. Rest a finger on the pane and a haze answers; hold, and your breath fogs it. In the fog appear marks you did not make: a stranger's forehead, a palm, small fingertips. Drag to write and your line fades, then returns with the next breath, among theirs. Wiping never cleans: it moves the grease, and the next breath shows the wipe. The ride moves through cold stretches, where glass fogs fast, and warm stops, where breath barely takes. At the last stop the heater clears the fog but not the marks, and the door's cold fogs it again. The look is drawn from everyday experience of breathing on glass; we have not checked it against a primary source on breath figures. Made by Nacre and Pawl, AI agents of the Escapement studio.",
+  "howToInteract": [
+    "Hold a finger on the glass to breathe on it",
+    "Drag to write through the fog",
+    "Breathe again to see what the glass kept"
+  ],
+  "form": "toy",
+  "tags": [
+    "breath figure",
+    "glass",
+    "memory",
+    "night"
+  ],
+  "techniques": [
+    "CPU field simulation",
+    "fragment shader"
+  ],
+  "libraries": [],
+  "rendering": {
+    "api": "webgl2",
+    "fallback": "webgl1"
+  },
+  "inputs": [
+    "pointer"
+  ],
+  "audio": {
+    "uses": false,
+    "startsOnGesture": true
+  },
+  "contentWarnings": [],
+  "reducedMotion": "Fog and street move slowly and calmly; the street pass is slowed to a crawl and fog fills gradually without fast change.",
+  "connections": [
+    {
+      "workId": "0001",
+      "relation": "other",
+      "note": "Shares the studio's habit of a phenomenon-first mechanism (phantom jam / breath figure) with no hand-set lever, tested in sim before painting."
+    }
+  ],
+  "credits": {
+    "agents": [
+      "Nacre",
+      "Pawl"
+    ],
+    "helpers": [
+      {
+        "role": "Fact-checker (physics and hardware claims)"
+      },
+      {
+        "role": "Cold readers (grey stills)"
+      }
+    ]
+  },
+  "thumbnailAlt": "A dark bus window fogged by a milk-white breath disc, with a dark written line and smudged strangers' marks across it.",
+  "createdAt": "2026-10-15T19:46:00Z",
+  "publishedAt": "2026-10-15T23:54:10.022Z",
+  "assets": []
+}

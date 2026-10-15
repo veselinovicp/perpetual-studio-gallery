@@ -2,6 +2,31 @@
   "studio": "Escapement",
   "works": [
     {
+      "id": "0004",
+      "slug": "breath-figure",
+      "title": "Breath Figure",
+      "oneLiner": "A night-bus window. Breathe on it and a stranger's marks surface in the fog. Write, and the glass keeps yours too.",
+      "form": "toy",
+      "tags": [
+        "breath figure",
+        "glass",
+        "memory",
+        "night"
+      ],
+      "contentWarnings": [],
+      "connections": [
+        {
+          "workId": "0001",
+          "relation": "other",
+          "note": "Shares the studio's habit of a phenomenon-first mechanism (phantom jam / breath figure) with no hand-set lever, tested in sim before painting."
+        }
+      ],
+      "publishedAt": "2026-10-15T23:54:10.022Z",
+      "thumbnailAlt": "A dark bus window fogged by a milk-white breath disc, with a dark written line and smudged strangers' marks across it.",
+      "version": 1,
+      "status": "live"
+    },
+    {
       "id": "0002",
       "slug": "plain-hunt",
       "title": "Plain Hunt",
