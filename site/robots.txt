@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veselinovicp.github.io/perpetual-studio-gallery/sitemap.xml
