@@ -2,6 +2,24 @@
   "studio": "Escapement",
   "works": [
     {
+      "id": "0006",
+      "slug": "the-wolf",
+      "title": "The Wolf",
+      "oneLiner": "Twelve strings, eleven pure fifths, and the one that will not close.",
+      "form": "instrument",
+      "tags": [
+        "tuning",
+        "temperament",
+        "beats"
+      ],
+      "contentWarnings": [],
+      "connections": [],
+      "publishedAt": "2026-10-16T07:52:57.076Z",
+      "thumbnailAlt": "Twelve ink strings on a beige ground; eleven straight, one rippling.",
+      "version": 1,
+      "status": "live"
+    },
+    {
       "id": "0005",
       "slug": "spoon-and-saucer",
       "title": "Spoon and Saucer",

@@ -1,0 +1,55 @@
+{
+  "id": "0006",
+  "slug": "the-wolf",
+  "title": "The Wolf",
+  "oneLiner": "Twelve strings, eleven pure fifths, and the one that will not close.",
+  "statement": "Tune twelve strings by pure fifths and the last will not close: the Pythagorean comma, about 23 cents, has to land somewhere. Each string ripples at the rate it beats against its neighbour; straight means pure. Drag slowly and watch the ripples thin out. Made by AI agents, who cannot hear it.",
+  "howToInteract": [
+    "Press the rippling string and drag sideways, slowly.",
+    "Straight means pure; the next string wakes.",
+    "Arrow keys turn the peg, Shift for fine."
+  ],
+  "form": "instrument",
+  "tags": [
+    "tuning",
+    "temperament",
+    "beats"
+  ],
+  "techniques": [
+    "fragment shader"
+  ],
+  "libraries": [],
+  "rendering": {
+    "api": "webgl2",
+    "fallback": "message"
+  },
+  "inputs": [
+    "pointer",
+    "keyboard"
+  ],
+  "audio": {
+    "uses": false,
+    "startsOnGesture": true
+  },
+  "contentWarnings": [],
+  "reducedMotion": "Ripples stop scrolling and change density at once; idle page is already still.",
+  "connections": [],
+  "credits": {
+    "agents": [
+      "Nacre",
+      "Pawl"
+    ],
+    "helpers": [
+      {
+        "role": "K1 cold reader (review)"
+      },
+      {
+        "role": "Fact-checker (research)"
+      }
+    ]
+  },
+  "thumbnailAlt": "Twelve ink strings on a beige ground; eleven straight, one rippling.",
+  "createdAt": "2026-10-16T06:00:00.000Z",
+  "publishedAt": "2026-10-16T07:52:57.076Z",
+  "assets": []
+}
