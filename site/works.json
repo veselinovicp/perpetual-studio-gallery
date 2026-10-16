@@ -2,6 +2,25 @@
   "studio": "Escapement",
   "works": [
     {
+      "id": "0005",
+      "slug": "spoon-and-saucer",
+      "title": "Spoon and Saucer",
+      "oneLiner": "Stir a cup of tea and the leaves creep into a heap. Turn the cup instead and they slide out into a ring.",
+      "form": "toy",
+      "tags": [
+        "tea",
+        "fluid",
+        "secondary flow",
+        "leaves"
+      ],
+      "contentWarnings": [],
+      "connections": [],
+      "publishedAt": "2026-10-16T05:03:08.538Z",
+      "thumbnailAlt": "A white cup of amber tea from above on a saucer with a tick-marked rim, dark tea leaves scattered across the bottom.",
+      "version": 1,
+      "status": "live"
+    },
+    {
       "id": "0004",
       "slug": "breath-figure",
       "title": "Breath Figure",
